@@ -8,7 +8,8 @@
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
-  "author": "",
+  "repository": "https://github.com/t1nyb0x/nala-support.git",
+  "author": "t1nyb0x",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.1.6",

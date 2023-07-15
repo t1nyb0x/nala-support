@@ -2,7 +2,7 @@ import { defaultTheme } from "@vuepress/theme-default"
 
 export default {
     title: 'ナーラ公苑内放牧地サポートサイト',
-    dest: 'docs/',
+    dest: 'build/',
     markdown: {
         extendMarkdown: md => {
             md.set({breaks: true})

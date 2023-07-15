@@ -1,1 +1,4 @@
 node_modules
+build
+docs/.vuepress/.cache
+docs/.vuepress/.temp
